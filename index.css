@@ -1,0 +1,187 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/5651992.png");
+    background-size: cover;
+  }
+
+.main {
+  font-family: "Cinzel", serif;
+}
+
+.home {
+  font-family: "Cinzel", serif;
+}
+
+.about {
+  font-family: "Cinzel", serif;
+}
+
+.projects {
+  font-family: "Cinzel", serif;
+}
+
+.tools {
+  font-family: "Cinzel", serif;
+}
+
+.contact {
+  font-family: "Cinzel", serif;
+}
+
+.aboutme {
+  font-family: "Bungee", sans-serif;
+}
+
+.myprojects {
+  font-family: "Bungee", sans-serif;
+}
+
+.toolsuse{
+  font-family: "Bungee", sans-serif;
+}
+
+.contactme {
+  font-family: "Bungee", sans-serif;
+}
+
+.feel {
+  font-family: "Cinzel", serif;
+}
+
+.ua {
+    width: 250px;
+    margin: auto;
+    height: auto;
+  }
+
+.mission {
+  width: 250px;
+  margin: auto;
+  height: auto;
+}
+
+.transcend {
+  font-family: "Handjet", sans-serif;
+  margin-bottom: 50px;
+  font-size: 20px;
+  font-size: 50px;
+} 
+
+.card-profile:hover {
+  transform: scale(1.05);
+}
+
+.card-ua:hover {
+  transform: scale(1.05);
+}
+
+.card-dream:hover {
+  transform: scale(1.05);
+}
+
+.card-mission:hover {
+  transform: scale(1.05);
+}
+
+.hyper {
+  width: 260px;
+  margin: auto;
+  height: auto;
+  margin-top: 15px;
+}
+
+.hypertools:hover {
+  transform: scale(1.05);
+}
+
+.css{
+  width: 260px;
+  margin: auto;
+  height: auto;
+  margin-top: 15px;
+}
+
+.csstools:hover {
+  transform: scale(1.05);
+}
+
+.bootstrap {
+  width: 150px;
+  margin: auto;
+  height: auto;
+  margin-top: 10px;
+  margin-left: 6px;
+}
+
+.bstools:hover {
+  transform: scale(1.05);
+}
+.logo {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.fb {
+  width: 20px;
+  margin-bottom: 30px;
+}
+
+.ig {
+  width: 30px;
+  margin-bottom: 30px;
+}
+
+.twit {
+  width: 25px;
+  margin-bottom: 30px;
+}
+
+.pint {
+  width: 25px;
+  margin-bottom: 30px;
+}
+
+.box-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.form-wrap {
+  background-color: #444;
+  padding: 30px;
+  border-radius: 10px;
+  width: 100%;
+  max-width: 800px;
+}
+
+.form-fields {
+  display: table;
+  width: 60%;
+  padding: 20px;
+}
+
+.form-group input, .form-group textarea {
+  width: 170%;
+  padding: 10px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin: 10px;
+}
+
+.submit-button{
+  font-family: "Bungee", sans-serif;
+  background-color: #7a7677;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 30px;
+  font-size: 23px;
+  width: 60%;
+}
+
+.submit-button:hover{
+  background: #868686;
+}
